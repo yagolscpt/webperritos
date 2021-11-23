@@ -9,7 +9,7 @@ somos una *__asociación__* amante de los animales. Fuck ~maltrato~  fuck sapos
 - Pequines 
 - Doberman
 
-##Cuidados Principales
+## Cuidados Principales
 
 1. Alimento
 2. Cariño
