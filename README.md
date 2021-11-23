@@ -22,4 +22,4 @@ somos una *__asociación__* amante de los animales. Fuck ~maltrato~  fuck sapos
 ## el perro mas bonito del mundo
 ![alt][perro]
 
-![perro]:unnamed.jpg
+[perro]:unnamed.jpg
